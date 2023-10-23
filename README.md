@@ -10,7 +10,6 @@
 [![CodeWars](https://www.codewars.com/users/Sergey_SSV/badges/micro)](https://www.codewars.com/users/Sergey_SSV)
 
 ## My tech stack
-<img src="https://img.shields.io/badge/Vite-fcad03&logo=vite&logoColor=black" />
 
 <!--
 **getFrontend/getFrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
