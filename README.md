@@ -2,8 +2,6 @@
 
 [![CodeWars](https://www.codewars.com/users/Sergey_SSV/badges/micro)](https://www.codewars.com/users/Sergey_SSV)
 
-https://www.codewars.com/users/Sergey_SSV/badges/micro?theme=light
-
 <!--
 **getFrontend/getFrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
