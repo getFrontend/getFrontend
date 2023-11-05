@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, my name is <a href="https://codepen.io/sergey_up" target="_blank">Sergey</a> 
-<img src="https://github.com/getFrontend/getFrontend/raw/main/img/Hi.gif" height="32"/></h1>
 <img src="https://github.com/getFrontend/getFrontend/raw/main/img/gitHub-header.png" />
+
+<h1 align="center">Hi there, my name is <a href="https://codepen.io/sergey_up" target="_blank">Sergey</a> <img src="https://github.com/getFrontend/getFrontend/raw/main/img/Hi.gif" height="32"/></h1>
 
 - 🔭 More than **2 years** of experience in *frontend development*.
 - 😎 I’m currently working on my IT projects and *open to working* on interesting projects 😊.
