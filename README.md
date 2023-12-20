@@ -19,6 +19,8 @@ One of the latest projects on React is a [Kanban board](https://u-kanbanboard.ve
 
 At the beginning of 2018, I started developing the [Xiaomishka](https://twitter.com/xiaomishka "Xiaomishka") project from scratch. By the end of the year, the project became one of the most visited and authoritative Xiaomi resources in the CIS, and in mid-2019 one of the most well-known and read **Xiaomi insiders**. 
 
+<img src="https://github.com/getFrontend/getFrontend/raw/main/img/Xiaomishka-info.png" />
+
 At that time, my publications could be found in most reputable tech publications such as: *GSMArena, Gizmochina, Gizchina, AndroidAuthority, AndroidCentral, PhoneArena, XDA-developers, Xataka, 91mobiles* and many others.
 
 <!--
