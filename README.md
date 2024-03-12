@@ -11,7 +11,7 @@
 
 One of the latest projects on React are: [BrainMaster](https://brainmaster.vercel.app/) modern website with sleek parallax effects and bento box layouts, an [online-shop MEBL](https://mebl-shop.vercel.app/) with a wide range of features and a [Kanban board](https://u-kanbanboard.vercel.app/ "Kanban board") that helps you organise your task list.
 
-I'm also continuing to improve my skills in developing full-stack applications in Next JS:
+I'm also continuing to improve my skills in developing full-stack applications in Next JS 14:
 * [Imagenko](https://imagenko.vercel.app/)
 * [FigMan](https://figman.vercel.app/)
 * [TopAIprompts](https://top-aiprompts.vercel.app/)
