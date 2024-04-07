@@ -13,6 +13,7 @@ One of the latest projects on React are: [iPhone](https://iphone16.vercel.app/) 
 
 I'm also continuing to improve my skills in developing full-stack applications in Next JS 14:
 
+- [POOM](https://github.com/getFrontend/next-app-zoom-clone) video app
 - [Imagenko](https://imagenko.vercel.app/)
 - [FigMan](https://figman.vercel.app/)
 - [TopAIprompts](https://top-aiprompts.vercel.app/)
