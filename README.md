@@ -9,6 +9,8 @@
 - 📚 I’m learning front-end development **every day** to increase my knowledge level.
 - 🌱 Also I’m currently learning modern **React** JS (v18) and **TypeScript**.
 
+<img align="right" alt="Rocket" width="300" src="https://github.com/getFrontend/getFrontend/blob/main/img/rocket.gif?raw=true">
+
 One of the latest projects on React are: [iPhone](https://iphone16.vercel.app/) clone site, [BrainMaster](https://brainmaster.vercel.app/) modern website with sleek parallax effects and bento box layouts, an [online-shop MEBL](https://mebl-shop.vercel.app/) with a wide range of features and a [Kanban board](https://u-kanbanboard.vercel.app/ "Kanban board") that helps you organise your task list.
 
 I'm also continuing to improve my skills in developing full-stack applications in Next JS 14:
