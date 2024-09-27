@@ -7,7 +7,7 @@
 - 🔭 More than **2 years** of experience in _frontend development_.
 - 😎 I’m currently working on my IT projects and _open to working_ on interesting projects 😊.
 - 📚 I’m learning front-end development **every day** to increase my knowledge level.
-- 🌱 Also I’m currently learning modern **React** JS (v18) and **TypeScript**.
+- 🌱 Also I’m currently learning modern **React** JS (v19) and **TypeScript**.
 
 <img align="right" alt="Rocket" width="300" src="https://github.com/getFrontend/getFrontend/blob/main/img/rocket.gif?raw=true">
 
