@@ -1,4 +1,4 @@
-<img src="https://github.com/getFrontend/getFrontend/raw/main/img/gitHub-header_2_ny2024.png" />
+![getFrontend main banner by Sergey](img/header_github_2025.png)
 
 <h1 align="center">Hi there, my name is <a href="https://codepen.io/sergey_up" target="_blank">Sergey</a> <img src="https://github.com/getFrontend/getFrontend/raw/main/img/Hi.gif" height="32"/></h1>
 
